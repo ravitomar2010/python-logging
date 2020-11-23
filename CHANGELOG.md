@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-logging/#history
 
+### [2.0.1](https://www.github.com/googleapis/python-logging/compare/v2.0.0...v2.0.1) (2020-11-23)
+
+
+### Documentation
+
+* fix logger documentation ([#100](https://www.github.com/googleapis/python-logging/issues/100)) ([6a46b46](https://www.github.com/googleapis/python-logging/commit/6a46b46a6bbc154c9b5b737859f108021ab5b201))
+
 ## [2.0.0](https://www.github.com/googleapis/python-logging/compare/v1.15.1...v2.0.0) (2020-11-19)
 
 
